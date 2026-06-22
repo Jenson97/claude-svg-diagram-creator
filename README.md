@@ -27,6 +27,19 @@ An AI-powered SVG diagram creation plugin for Claude Code. Covers **13 diagram t
 | **C. Edit** | "Change the title" | Modify existing SVG/HTML |
 | **D. Prompt output** | E1/E2 types | Hover-to-reveal prompts + copy |
 
+## Example Use Cases
+
+| # | Scenario | Prompt Example | Output |
+|---|----------|---------------|--------|
+| 1 | **Tech blog architecture diagram** | "Draw a 4-layer cloud architecture: CDN → API Gateway → Microservices → Database" | T4 Multi-Layer Architecture SVG |
+| 2 | **Product comparison chart** | "Create a before/after comparison showing the old vs new deployment pipeline" | T3 Before/After Comparison SVG |
+| 3 | **Data report illustration** | "Make data cards showing: 99.9% uptime, 50K requests/sec, <10ms latency" | S4 Data Showcase Cards SVG |
+| 4 | **Academic paper flowchart** | "Draw a vertical pipeline: Data Collection → Cleaning → Training → Evaluation → Deployment" | T1 Vertical Pipeline SVG |
+| 5 | **Business strategy flywheel** | "Create a flywheel diagram: Content → Traffic → Conversion → Retention" | S3 Flywheel Cycle SVG |
+| 6 | **Social media infographic** | "Make a comic-style infographic about how transformers work in LLMs" | E1 Comic Infographic HTML |
+| 7 | **Dark-theme system diagram** | "Draw a dark-themed network topology with security zones" | T4d Dark Architecture HTML |
+| 8 | **Iterative editing** | "Change the title color to blue and add a fourth step" | Modified SVG (Mode C) |
+
 ## Installation
 
 ```bash
