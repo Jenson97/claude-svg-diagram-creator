@@ -1,0 +1,12 @@
+{
+  "name": "svg-diagram-creator",
+  "description": "AI-powered SVG diagram creation covering 13 diagram types (flowcharts, architecture diagrams, comparison charts, flywheel diagrams, data cards, comics, infographics) with dark theme support. Use when creating article illustrations, technical diagrams, data visualizations, or any scenario requiring SVG/HTML graphics.",
+  "author": {
+    "name": "Jenson97",
+    "url": "https://github.com/Jenson97"
+  },
+  "homepage": "https://github.com/Jenson97/claude-svg-diagram-creator",
+  "repository": "https://github.com/Jenson97/claude-svg-diagram-creator",
+  "license": "MIT",
+  "keywords": ["svg", "diagram", "flowchart", "architecture", "chart", "infographic", "illustration", "data-visualization", "comic", "dark-theme"]
+}
