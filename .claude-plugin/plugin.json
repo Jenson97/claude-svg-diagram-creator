@@ -1,5 +1,6 @@
 {
   "name": "svg-diagram-creator",
+  "version": "1.0.0",
   "description": "AI-powered SVG diagram creation covering 13 diagram types (flowcharts, architecture diagrams, comparison charts, flywheel diagrams, data cards, comics, infographics) with dark theme support. Use when creating article illustrations, technical diagrams, data visualizations, or any scenario requiring SVG/HTML graphics.",
   "author": {
     "name": "Jenson97",
